@@ -1,1 +1,1 @@
-Additional text to append
+Hello, this is an example file.
